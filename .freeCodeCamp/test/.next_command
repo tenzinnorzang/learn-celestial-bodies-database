@@ -95,3 +95,15 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 ls --color=auto -a
 git status
 git add .
+git status
+git commit -m "database dump"
+git branch
+git push -u origin main
+git push -u origin main
+__vsc_prompt_cmd_original
+git remote -v
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git remote set-url origin https://github.com/tenzinnorzang/learn-celestial-bodies-database
+git status
+git add .
