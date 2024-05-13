@@ -107,3 +107,8 @@ __vsc_prompt_cmd_original
 git remote set-url origin https://github.com/tenzinnorzang/learn-celestial-bodies-database
 git status
 git add .
+__vsc_prompt_cmd_original
+git status
+git commit -m "forked repo"
+git status
+git add .
